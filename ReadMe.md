@@ -1,1 +1,1 @@
-This is developer2 learning repository for spring boot application for feature/demo_branch 
+This is developer1&2 learning repository for spring boot application for feature/demo_branch 
